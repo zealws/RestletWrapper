@@ -1,3 +1,7 @@
 .settings/
 .project
 bin
+*.class
+# Package Files #
+*.war
+*.ear
