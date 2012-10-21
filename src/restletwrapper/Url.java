@@ -1,4 +1,4 @@
-package com.zealjagannatha.http;
+package restletwrapper;
 
 import java.util.Map;
 

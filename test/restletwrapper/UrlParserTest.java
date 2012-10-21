@@ -1,4 +1,4 @@
-package com.zealjagannatha.http;
+package restletwrapper;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -7,6 +7,9 @@ import java.util.Map;
 
 import org.junit.Test;
 import org.restlet.data.Protocol;
+
+import restletwrapper.UrlParser;
+
 
 public class UrlParserTest {
 

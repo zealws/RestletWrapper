@@ -1,4 +1,4 @@
-package com.zealjagannatha.http.client;
+package restletwrapper.client;
 
 import org.restlet.Client;
 import org.restlet.Request;
@@ -7,7 +7,8 @@ import org.restlet.data.Method;
 import org.restlet.representation.Representation;
 import org.restlet.representation.StringRepresentation;
 
-import com.zealjagannatha.http.Url;
+import restletwrapper.Url;
+
 
 public class HttpClient {
 

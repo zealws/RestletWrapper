@@ -1,4 +1,4 @@
-package com.zealjagannatha.http.client;
+package restletwrapper.client;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -7,7 +7,8 @@ import org.junit.Test;
 import org.restlet.Response;
 import org.restlet.data.Status;
 
-import com.zealjagannatha.http.client.HttpClient;
+import restletwrapper.client.HttpClient;
+
 
 public class HttpClientTest {
 
